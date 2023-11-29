@@ -1,3 +1,3 @@
 # Prishtina-Chair-Shop
 
-wwww.jetonjashanica.github.io/Prishtina-Chair-Shop/
+https://jetonjashanica.github.io/Prishtina-Chair-Shop/
