@@ -1,3 +1,3 @@
 # Prishtina-Chair-Shop
 
-https://prishtina-chair-shop.netlify.app/
+jetonjashanica.github.io/Prishtina-Chair-Shop/
